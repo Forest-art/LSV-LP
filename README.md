@@ -65,4 +65,4 @@ LMV-LP
 ## Acknowledgement
 
 If you have any problems about LMV-LP, please contact xiaochenglu1997@gmail.com.
-Please cite the paper _《LMV-LP: A Large-Scale Multi-Source Video-Based License Plate Dataset》_, if you benefit from this dataset.
+Please cite the paper _《Q. Wang, X. Lu, C. Zhang, Y. Yuan and X. Li, "LMV-LP: A Large-Scale Multi-Source Video-Based License Plate Dataset," IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2022》_, if you benefit from this dataset.
