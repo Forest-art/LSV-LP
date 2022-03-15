@@ -3,7 +3,6 @@
 ## Download
 #### It can be downloaded from:
 * [BaiduYun Drive](https://pan.baidu.com/s/183T4m0m8ytIruN0djLmp5A)
-* It is worth noting that LSV-LP can only be used for academic research, not for commercial use. If you need the data download password, please contact us by email, and indicate your work unit and download purpose.
 
 ## Structure
 ```
@@ -63,6 +62,4 @@ LSV-LP
 * [LP_Labler](https://github.com/Elin24/license_labeler)
   
 ## Acknowledgement
-
-If you have any problems about LMV-LP, please contact xiaochenglu1997@gmail.com.
 Please cite the paper _《Q. Wang, X. Lu, C. Zhang, Y. Yuan and X. Li, "LSV-LP:Large-Scale Video-Based License Plate Detection and Recognition," IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2022》_, if you benefit from this dataset.
