@@ -63,3 +63,7 @@ LSV-LP
   
 ## Acknowledgement
 Please cite the paper _《Q. Wang, X. Lu, C. Zhang, Y. Yuan and X. Li, "LSV-LP:Large-Scale Video-Based License Plate Detection and Recognition," IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2022》_, if you benefit from this dataset.
+
+
+## Limitation of Liability
+It is worth noting that LSV-LP can only be used for academic research, not for commercial use.
