@@ -3,6 +3,7 @@
 ## Download
 #### It can be downloaded from:
 * [BaiduYun Drive](https://pan.baidu.com/s/183T4m0m8ytIruN0djLmp5A) password:fp52
+#### For the other download links would be released soon.
 
 ## Structure
 ```
